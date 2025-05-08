@@ -67,7 +67,7 @@ pip install pandas scikit-learn
 python task4.py
 ```
 
-##Output:
+## Output:
 
 ![Screenshot 2025-05-05 162244](https://github.com/user-attachments/assets/b9713066-5fbe-4b27-94f5-029d125bbef4)
 
