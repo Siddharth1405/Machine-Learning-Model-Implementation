@@ -17,7 +17,7 @@ A machine learning model that classifies SMS messages as spam or ham using text 
 
 # SMS Spam Classifier 
 
-## Project Overview
+## Overview
 This project implements a Naive Bayes machine learning model to classify SMS messages as either spam or legitimate (ham). It demonstrates a complete natural language processing (NLP) pipeline from data preprocessing to model evaluation.
 
 ## Key Features
